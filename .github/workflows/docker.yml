@@ -25,7 +25,7 @@ jobs:
         with:
           images: |
             gggadocker/3x-ui
-            ghcr.io/mhsanaei/3x-ui
+            ghcr.io/ggg5945/3x-ui
           tags: |
             type=ref,event=branch
             type=ref,event=tag
